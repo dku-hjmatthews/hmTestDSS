@@ -223,7 +223,6 @@
     "dkuProperties": []
   },
   "name": "Haiku Starter for Data Science User",
-  "projectStatus": "Sandbox",
   "imgPattern": 8,
   "metrics": {
     "probes": [],
@@ -280,11 +279,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 139,
+    "versionNumber": 140,
     "lastModifiedBy": {
       "login": "ds.user"
     },
-    "lastModifiedOn": 1647965679524
+    "lastModifiedOn": 1647965855654
   },
   "creationTag": {
     "versionNumber": 0,
@@ -298,7 +297,8 @@
   "tags": [
     "tutorial",
     "downloads",
-    "section:General Topics"
+    "section:General Topics",
+    "duplicated"
   ],
   "customFields": {},
   "checklists": {
